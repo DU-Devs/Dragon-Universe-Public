@@ -28,6 +28,3 @@ If applicable, add screenshots to help explain your problem.
 
 **First identifiable version:**
 What is the earliest version of the game in which you found this bug to exist?
-
-**Additional context**
-Add any other context about the problem here.
