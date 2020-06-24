@@ -23,13 +23,8 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Version [e.g. 22]
-
 **Byond Details:**
-- Install type (installer exe or zip)
-- Version (ex. 512, 513, etc)
+- Version (ex. 512, 513, etc):
 
 **First identifiable version:**
 What is the earliest version of the game in which you found this bug to exist?
