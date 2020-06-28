@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest new mechanics/content so that the game can improve.
 title: "[Suggestion]"
 labels: enhancement
 assignees: ''
